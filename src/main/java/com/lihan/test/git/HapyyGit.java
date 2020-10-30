@@ -6,6 +6,7 @@ public class HapyyGit {
 		// TODO Auto-generated method stub
 System.out.println("djfdfjl   baibing 饰演 xiaomeiniang");
 System.out.println("jhdlfj");
+System.out.println("且哈哈哦");
 	}
 
 }
